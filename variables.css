@@ -1,0 +1,11 @@
+:root{
+    --header-bg-color : rgba(0, 47, 52, 0.08);
+    --blackText : rgba(0, 47, 52, 1);
+    --primaryBaseText : #002f34;
+    --monetizationBase : #ffce32;
+    --white : white;
+    --accentBase : #23e5db;
+    --blueBase : #3a77ff;
+    --primaryBase: #002f34;
+    --blackSecondaryText : rgba(0, 47, 52, 0.64);
+}
